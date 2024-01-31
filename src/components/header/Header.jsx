@@ -84,7 +84,7 @@ const Header = ({ type }) => {
         {type !== "list" && (
           <>
             <h1 className="headerTitle">
-              Book with us! Get a great discount!!
+              Book with us! Get a great discount today.
             </h1>
             <p className="headerDesc">
               Get a great discount for your travels - instant savings of 10% of
